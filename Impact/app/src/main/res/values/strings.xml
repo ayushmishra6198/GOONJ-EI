@@ -1,0 +1,22 @@
+<resources>
+    <string name="title">Select the material</string>
+    <string name="app_name">Impact</string>
+    <string name="title_activity_main_page">Welcome to Goonj</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="grid_layout">grid layout</string>
+    <string name="goonj_is_a_19_years_old_non_profit_organization_working_on_utilizing_discarded_urban_material_as_a_tool_for_development_we_are_a_force_of_900_people_with_work_spread_across_23_states_in_india_goonj_has_won_many_national_and_international_awards_including_the_ramon_magsaysay_award_2015_to_our_founder_anshu_gupta_the_work_has_touched_upon_some_difficult_rural_development_issues_like_water_sanitation_infrastructure_agriculture_migration_apart_from_sustained_work_in_disaster_hit_communities_goonj_receives_tonnes_of_material_annually_from_urban_population_this_material_goes_through_storing_sorting_and_processing_sorted_material_is_converted_into_kits_of_reusable_material_goonj_engages_with_local_communities_in_far_flung_areas_in_rural_india_to_get_development_work_done_in_their_community_using_their_own_local_resources_and_manpower_material_packed_in_kits_is_used_as_a_parallel_currency_and_is_given_out_as_a_reward_for_their_efforts_do_visit_our_website_www_goonj_org_to_know_more">Goonj is a 19+ years old non-profit organization working on utilizing discarded urban material as a tool for development. We are a force of 900 people with work spread across 23 states in India. Goonj has won many National and International awards including the Ramon Magsaysay award 2015 to our founder Anshu Gupta. The work has touched upon some difficult rural development issues like water, sanitation, infrastructure, agriculture, migration apart from sustained work in disaster-hit communities. Goonj receives tonnes of material annually from urban population. This material goes through storing, sorting and processing. Sorted material is converted into kits of reusable material. Goonj engages with local communities in far flung areas in rural India to get development work done in their community using their own local resources and manpower. Material packed in kits is used as a parallel currency and is given out as a reward for their efforts. Do visit our website www.goonj.org to know more.</string>
+    <array name="imp">
+        <item>Books</item>
+        <item>Electronic Items</item>
+        <item>Plastics</item>
+        <item>Kitchen Utensils</item>
+        <item>Footwear</item>
+        <item>Clothes</item>
+        <item>Furniture</item>
+    </array>
+</resources>

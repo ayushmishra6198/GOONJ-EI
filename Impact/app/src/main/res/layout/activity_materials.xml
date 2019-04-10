@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp"
+    android:background="@drawable/back2"
+    >
+
+    <ListView
+        android:id="@+id/lv1"
+        android:layout_width="407dp"
+        android:layout_height="528dp"
+        android:layout_below="@+id/searchView"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="135dp"
+        android:background="#ddffffff"
+        android:divider="#07205A"
+        android:dividerHeight="2dp" />
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="341dp"
+        android:layout_height="53dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="#ddffffff"
+        android:iconifiedByDefault="false"
+        android:queryHint="Search Here" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="48dp"
+        android:layout_height="59dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:background="@android:drawable/ic_btn_speak_now"
+        android:onClick="getSpeechInput" />
+
+</RelativeLayout>
